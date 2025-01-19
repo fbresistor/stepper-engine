@@ -1,0 +1,9 @@
+[package]
+name = "stepper-engine"
+version = "0.1.0"
+authors = ["FB Resistor <fbresistor@outlook.com>"]
+edition = "2024"
+description = "stepper motor engine"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
